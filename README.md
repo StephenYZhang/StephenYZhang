@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Stephen @StephenYZhang
-- 👀 I’m interested in C++, xVAs, Reinforcement Learning
+- 👀 I’m interested in C++, Python, xVAs, Reinforcement Learning
 - 🌱 I’m currently learning how to think
-- 💞️ I’m looking to collaborate on game engine
+- 💞️ I’m looking to collaborate on Collateral Funding Engine
 - 📫 How to reach me stephen_y_zhang@yahoo.com
 
 <!---
